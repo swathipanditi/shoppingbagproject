@@ -1,0 +1,31 @@
+[{
+    "product": "IPhone",
+    "model" : "10",
+    "color": "Gold",
+    "cost": "$549",
+    "url": "./img/Apple-iPhone-11-Purple-frontimage.jpg"
+  }, {
+    "product": "IPhone",
+    "model" : "11",
+    "color" : "White",
+    "cost": "$749",
+    "url": "./img/Apple-iPhone-11-Yellow-frontimage.jpg"
+  }, {
+    "product": "IPhone",
+    "model" : "11pro",
+    "color": "Pink",
+    "cost": "$849",
+    "url": "./img/Apple-iPhone-11-Green-frontimage.jpg"
+  }, { 
+    "product": "Samsung",
+   "model" : "S10",
+   "color": "Purple",
+   "cost": "$649",
+   "url": "../img/samsungA30.jpg"
+}, {
+   "product": "Samsung",
+   "model" : "A30",
+   "color": "Blue",
+   "cost": "$449",
+   "url": "../img/samsungs10.jpg"
+}]
